@@ -13,8 +13,8 @@ A tool to parse ESPnet training logs, visualize training progress, and detect di
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/espnet-training-analyzer.git
-cd espnet-training-analyzer
+git clone https://github.com/gjcolom/espnet_model_learning_estimator.git
+cd espnet_model_learning_estimator
 
 # Run the setup script to create a virtual environment
 ./setup_env.sh
